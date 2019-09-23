@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="81499e6c-631c-4897-93d7-03c8f3629fa7" name="Default Changelist" comment="Validations">
-      <change afterPath="$PROJECT_DIR$/mybubble/templates/account.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pipfile" beforeDir="false" afterPath="$PROJECT_DIR$/Pipfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pipfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Pipfile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mybubble/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/mybubble/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybubble/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/mybubble/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybubble/routes.py" beforeDir="false" afterPath="$PROJECT_DIR$/mybubble/routes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybubble/templates/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/mybubble/templates/layout.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +47,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -147,7 +142,15 @@
       <workItem from="1569009194162" duration="8274000" />
       <workItem from="1569074977242" duration="5514000" />
       <workItem from="1569083797230" duration="1276000" />
-      <workItem from="1569198729228" duration="3705000" />
+      <workItem from="1569198729228" duration="3990000" />
+      <workItem from="1569213666553" duration="157000" />
+      <workItem from="1569213855911" duration="71000" />
+      <workItem from="1569213934851" duration="16000" />
+      <workItem from="1569213958119" duration="12000" />
+      <workItem from="1569213978122" duration="209000" />
+      <workItem from="1569214194014" duration="197000" />
+      <workItem from="1569214398987" duration="35000" />
+      <workItem from="1569214440759" duration="319000" />
     </task>
     <task id="LOCAL-00001" summary="Validations">
       <created>1569083933322</created>
